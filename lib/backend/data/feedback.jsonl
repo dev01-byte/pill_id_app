@@ -1,0 +1,1 @@
+{"ts": "2026-01-12T01:53:38.073313+00:00", "action": "confirm", "query": {"imprint": "IP204", "color": "Brown", "shape": "Round"}, "result": {"name": "Ibuprofen", "strength": "200 mg", "imprint": "IP204", "color": "Brown", "shape": "Round", "confidenceScore": 0.8, "confidenceLevel": "MED", "source": "local", "warnings": []}, "app": "pill_id_app", "version": "dev"}
