@@ -1,0 +1,42 @@
+# --- Flutter / Dart ---
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# --- IDE ---
+.idea/
+.vscode/
+*.iml
+
+# --- macOS ---
+.DS_Store
+
+# --- Android ---
+android/.gradle/
+android/local.properties
+android/**/key.properties
+android/**/keystore.jks
+
+# --- iOS ---
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Runner.xcworkspace/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+backend/.venv/
+backend/__pycache__/
